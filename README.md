@@ -1,1 +1,1 @@
-# NoirBot
+# tickety-magic
